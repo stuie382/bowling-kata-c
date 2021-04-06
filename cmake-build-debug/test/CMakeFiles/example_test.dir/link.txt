@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/example_test.dir/bowling_game_test.c.o  -o ../bin/test/example_test  -Wl,-rpath,/home/stuart/projects/C-project-template/cmake-build-debug/lib ../lib/libunity.a ../lib/libexample.so 

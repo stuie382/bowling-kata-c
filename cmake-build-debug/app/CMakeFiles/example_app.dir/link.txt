@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/example_app.dir/example_app.c.o  -o ../bin/example_app  -Wl,-rpath,/home/stuart/projects/C-project-template/cmake-build-debug/lib ../lib/libexample.so 
