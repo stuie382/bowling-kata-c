@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libexample.so -o ../lib/libexample.so CMakeFiles/example.dir/bowling_game.c.o 
